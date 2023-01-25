@@ -1,0 +1,130 @@
+body{
+    text-align:center;
+    font-family: 'Caudex', serif;
+    margin:0;
+   
+}
+
+h1{
+    padding-top:250px;
+    font-family: 'Sacramento', cursive;
+    font-size:90px;
+    color:#f6b9b9;
+    
+}
+
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size:90px;
+    color:#f6b9b9;
+    margin-bottom:5px;
+    margin-top: auto;
+    
+}
+
+h3{
+    font-family: 'Caudex', serif;
+    font-size:30px;
+    
+}
+
+p{
+    padding-bottom:20px;
+    line-height:2;
+    word-spacing:2px;
+    width:50%;
+    margin:0 auto;
+}
+
+a{
+    margin:40px;
+}
+
+
+hr{
+    width:6%;
+    border-style:none;
+    border-top-style:dotted;
+    border-width: 5px;
+    border-color:skyblue;
+    margin-top:40px;
+    margin-bottom:40px;
+
+}
+
+li{
+  
+    margin: auto 300px;
+    line-height:2;
+
+}
+
+.passage{
+    position:absolute;
+    bottom:10px;   
+}
+
+.Myimage{
+    height:35%;
+    width:30%;
+    border-radius: 100%;
+    border:2px solid white;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.sun{
+    width:400px;
+    height:250px;
+    position:absolute;
+    top:40px;
+    left:90px;
+}
+
+.cloud1{
+    width:400px;
+    height:250px;
+    position:absolute;
+    right:80px;
+    bottom:100px;
+}
+
+.birds{
+    height:150px;
+    width:150px;
+    position:absolute;
+    left:200px;
+    bottom:150px;
+}
+
+.Eagle{
+    height:100px;
+    width:100px;
+    position:absolute;
+    top:200px;
+    right:250px;
+}
+
+.container-1{
+    background-color:#A0C3D2;
+    height:100%;
+    position:relative;
+    
+}
+
+.container-2{
+    width:50%;
+   /* height:100%;*/
+    margin:0px auto 0px auto;
+}
+
+.container-3{
+    background-color:violet;
+    height:100px;
+    padding:50px;
+    position:relative;
+}
+
+a:hover{
+    color:rgb(7, 248, 7);
+}
